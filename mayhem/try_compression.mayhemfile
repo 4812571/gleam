@@ -1,0 +1,5 @@
+project: gleam
+target: parse-module
+
+cmds:
+  - cmd: /fuzz/fuzz_parse_module
